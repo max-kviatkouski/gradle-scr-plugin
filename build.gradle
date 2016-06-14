@@ -25,7 +25,7 @@ pluginBundle {
 
     plugins {
         scrPlugin {
-            id = 'scr'
+            id = 'neva.scr'
             displayName = 'Gradle SCR Plugin'
         }
     }
